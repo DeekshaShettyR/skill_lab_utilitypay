@@ -33,7 +33,11 @@ A responsive and multilingual web application for securely paying utility bills 
 
 setup
 cd utility-bill-dashboard
+
 npm install
+
 npm install jspdf emailjs-com react-i18next i18next recharts
+
 npm run dev
+
 Open your browser at http://localhost:3000
