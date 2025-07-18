@@ -79,7 +79,8 @@ export default function Dashboard() {
     localStorage.setItem(`payments_${user.email}`, JSON.stringify(updated));
     setPayments(updated);
 
-    emailjs.send('', '', {
+    emailjs.send('', '', {      
+      // servertemplatepublic
       user_name: user.name,
       email: user.email,
       utility,
