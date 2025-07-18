@@ -79,14 +79,14 @@ export default function Dashboard() {
     localStorage.setItem(`payments_${user.email}`, JSON.stringify(updated));
     setPayments(updated);
 
-    emailjs.send('service_mjzaccl', 'template_lgvm5my', {
+    emailjs.send('', '', {
       user_name: user.name,
       email: user.email,
       utility,
       account,
       amount,
       payment_time: payment.time
-    }, 'mzphc59bPF4CkzZBQ');
+    }, '');
 
     alert(t("paymentSuccess"));
   };
