@@ -41,3 +41,8 @@ npm install jspdf emailjs-com react-i18next i18next recharts
 npm run dev
 
 Open your browser at http://localhost:3000
+
+![WhatsApp Image 2025-07-18 at 14 33 11_03692512](https://github.com/user-attachments/assets/e13c4650-28d6-42ba-bc00-792aed401c10)
+
+
+
