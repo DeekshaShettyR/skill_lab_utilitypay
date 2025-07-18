@@ -1,0 +1,37 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john@example.com",
+    "password": "john123"
+  },
+  {
+    "name": "Diya",
+    "email": "diya@gmail.com",
+    "password": "diya123"
+  },
+  {
+    "name": "ab",
+    "email": "ab@gmail.com",
+    "password": "12ab"
+  },
+  {
+    "name": "disha",
+    "email": "disha@gmail.com",
+    "password": "disha123"
+  },
+  {
+    "name": "Admin",
+    "email": "admin@utilitypay.com",
+    "password": "admin123"
+  },
+  {
+    "name": "rana",
+    "email": "rana@gmail.com",
+    "password": "rana"
+  },
+  {
+    "name": "Deeksha",
+    "email": "dixa@gmail.com",
+    "password": "123456A"
+  }
+]

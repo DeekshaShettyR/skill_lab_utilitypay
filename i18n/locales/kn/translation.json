@@ -1,0 +1,11 @@
+{
+  "utilityType": "ಉಪಯೋಗ ಪ್ರಕಾರ",
+  "electricity": "ವಿದ್ಯುತ್",
+  "water": "ನೀರು",
+  "gas": "ಅನಿಲ",
+  "accountNumber": "ಖಾತೆ ಸಂಖ್ಯೆ",
+  "accountPlaceholder": "ಉದಾ., 1234567890",
+  "amount": "ಮೊತ್ತ",
+  "amountPlaceholder": "₹",
+  "payNow": "ಪಾವತಿಸಿ"
+}

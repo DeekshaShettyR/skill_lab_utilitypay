@@ -1,0 +1,11 @@
+{
+  "utilityType": "Utility Type",
+  "electricity": "Electricity",
+  "water": "Water",
+  "gas": "Gas",
+  "accountNumber": "Account Number",
+  "accountPlaceholder": "e.g., 1234567890",
+  "amount": "Amount",
+  "amountPlaceholder": "₹",
+  "payNow": "Pay Now"
+}

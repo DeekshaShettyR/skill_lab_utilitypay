@@ -1,0 +1,11 @@
+{
+  "utilityType": "यूटिलिटी प्रकार",
+  "electricity": "बिजली",
+  "water": "पानी",
+  "gas": "गैस",
+  "accountNumber": "खाता संख्या",
+  "accountPlaceholder": "उदा., 1234567890",
+  "amount": "राशि",
+  "amountPlaceholder": "₹",
+  "payNow": "भुगतान करें"
+}
